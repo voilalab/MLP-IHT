@@ -60,7 +60,7 @@ parser.add_argument('--nmeasurements', type=int, default=50000,
 parser.add_argument('--input_dim', type=int, default=100,
                     help='Dimension of the input vectors, if the task is mlp_planted.')
 parser.add_argument('--save_results', action='store_true',
-                    help='Save a table with the results of this experiment for each value of m and s.')
+                    help='Save a table with the results of this experiment for each value of m, s, and seed.')
 parser.add_argument('--gpu', type=int, default=0,
                     help='Which GPU to run on.')
 parser.add_argument('--expname', type=str, default='',
