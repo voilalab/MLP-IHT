@@ -2,7 +2,7 @@ This code is associated with the following paper, and reproduces the experimenta
 
 A Recovery Guarantee for Sparse Neural Networks
 
-https://arxiv.org/abs/2509.20323
+https://arxiv.org/pdf/2509.20323
 
 ## How to run the code
 
